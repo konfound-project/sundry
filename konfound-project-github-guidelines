@@ -1,0 +1,19 @@
+# konfound guidelines for interacting with git/GitHub
+
+## Use commit messages to communicate with others
+
+- Use informative commit messages
+
+## Consider what stage the release should be at
+
+- Development branch on GitHub
+- Master branch on GitHub
+- Released on CRAN/through STATA
+
+## Have someone review changes
+
+- Before something makes it from development to master, or master to released, have someone sign-off on the review using GitHub's review features
+
+## Use issues to track issues
+
+- Use GitHub issues to track and assign individauls responsible for issues
